@@ -6,7 +6,7 @@
 上传转换代码
 步骤:
 1. 将两个py文件放到ernie的根目录
-2. python pad_to_np.py
+2. 更改pad_to_np里的模型路径，然后python pad_to_np.py
 3. python np_to_tf.py
 
 
