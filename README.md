@@ -3,7 +3,7 @@
 
 
 
-2019年10月12日 更新：
+2019年10月12日 更新：<br/>
 pad_to_np.py中调用create_model增加参数is_training=Ture
 
 
