@@ -4,7 +4,7 @@
 
 
 2019年10月12日 更新：<br/>
-在pad_to_np.py中调用create_model时增加参数is_training=Ture，以适应新版本ernie代码
+在pad_to_np.py中调用create_model时增加参数is_classify=Ture，以适应新版本ernie代码
 
 
 
