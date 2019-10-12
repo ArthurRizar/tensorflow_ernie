@@ -51,7 +51,8 @@ if __name__ == '__main__':
             _, _ = create_model(
                     args,
                     pyreader_name='test_reader',
-                    ernie_config=ernie_config)
+                    ernie_config=ernie_config,
+                    is_classify=True)
     
     exe.run(startup_prog)
     
