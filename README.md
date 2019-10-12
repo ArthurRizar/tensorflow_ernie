@@ -1,6 +1,16 @@
 # tensorflow_ernie
 将百度ernie的paddlepaddle模型转成tensorflow模型
 
+
+
+2019年10月12日 更新：
+pad_to_np.py中调用create_model增加参数is_training=Ture
+
+
+
+
+
+
 2019年9月25日 更新：
 
 上传转换代码
